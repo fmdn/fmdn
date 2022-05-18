@@ -8,6 +8,6 @@
 - 💻 At Futurmap Madagscar
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
-
+<img align="right" alt="Coding" width="400" src="[https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif](https://skyline.github.com/dinahasina/2019)">
 <br />
 
